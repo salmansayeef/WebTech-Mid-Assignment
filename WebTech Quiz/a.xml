@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<TReg>
+  <TRegDoc id="1">
+    <uname>Salman</uname>
+    <fname>Md Salman Sayeef</fname>
+    <email>mdsalmansayeef@gmail.com</email>
+    <phn>01813136452</phn>
+    <password>1234</password>
+    <confpass>1234</confpass>
+  </TRegDoc>
+  <TRegDoc id="2">
+    <uname>Azhar</uname>
+    <fname>Md Azhar Uddin</fname>
+    <email>azharuddin@gmail.com</email>
+    <phn>01841328379</phn>
+    <password>5678</password>
+    <confpass>5678</confpass>
+  </TRegDoc>
+</TReg>

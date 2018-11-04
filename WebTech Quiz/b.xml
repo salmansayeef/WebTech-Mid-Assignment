@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<StReg>
+  <StRegDoc id="1">
+    <uname>Hasib</uname>
+    <fname>Md Azman Hasib</fname>
+    <email>azmanhasib@gmail.com</email>
+    <phn>01911933376</phn>
+    <password>0620236</password>
+    <confpass>0620236</confpass>
+  </StRegDoc>
+  <StRegDoc id="2">
+    <uname>Rita</uname>
+    <fname>Sharmin Akter Rita</fname>
+    <email>sharmin@gmail.com</email>
+    <phn>01916083954</phn>
+    <password>083954</password>
+    <confpass>083954</confpass>
+  </StRegDoc>
+</StReg>
